@@ -17,7 +17,7 @@ st.set_page_config(
 # ==============================================================================
 # Get your FREE API key from: https://site.financialmodelingprep.com/developer/docs
 # Sign up takes 2 minutes - Free tier gives you 250 API calls per day
-FMP_API_KEY = "XSYTIr3bqvsdGQNBge9J7GYesvJpTatJ"  # ← REPLACE THIS with your actual API key
+FMP_API_KEY = "YOUR API KEY"  # ← REPLACE THIS with your actual API key
 
 # ==============================================================================
 # COMPANY CONFIGURATIONS
