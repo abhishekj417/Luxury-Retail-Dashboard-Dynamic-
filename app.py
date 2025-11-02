@@ -99,7 +99,7 @@ st.markdown("---")
 def get_fmp_financial_data(ticker, company_key):
     """Fetch financial data from Financial Modeling Prep API - Most Accurate Source"""
 
-    if FMP_API_KEY == "XSYTIr3bqvsdGQNBge9J7GYesvJpTatJ":
+    if FMP_API_KEY == "YOUR_API_KEY_HERE":
         return None
 
     try:
