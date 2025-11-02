@@ -17,7 +17,7 @@ st.set_page_config(
 # ==============================================================================
 # Get your FREE API key from: https://site.financialmodelingprep.com/developer/docs
 # Sign up takes 2 minutes - Free tier gives you 250 API calls per day
-FMP_API_KEY = "YOUR API KEY"  # ← REPLACE THIS with your actual API key
+FMP_API_KEY = "XSYTIr3bqvsdGQNBge9J7GYesvJpTatJ"  # ← REPLACE THIS with your actual API key
 
 # ==============================================================================
 # COMPANY CONFIGURATIONS
@@ -99,7 +99,7 @@ st.markdown("---")
 def get_fmp_financial_data(ticker, company_key):
     """Fetch financial data from Financial Modeling Prep API - Most Accurate Source"""
 
-    if FMP_API_KEY == "YOUR_API_KEY_HERE":
+    if FMP_API_KEY == "XSYTIr3bqvsdGQNBge9J7GYesvJpTatJ":
         return None
 
     try:
